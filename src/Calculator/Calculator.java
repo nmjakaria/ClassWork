@@ -1,5 +1,5 @@
 /*
- 
+This is the project of a simple calculator created by Naimullah Md Jakaria.
  */
 package Calculator;
 
